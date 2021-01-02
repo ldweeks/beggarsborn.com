@@ -1,6 +1,6 @@
 ---
 author: "Lucas Weeks"
-title: "Credit Documentation"
+title: "You can freeze your credit for free... and you should!"
 date: 2021-01-02T16:31:06-05:00
 tags: ["docs"]
 draft: false
@@ -51,5 +51,3 @@ Unfortunately, if you want to add a freeze for dependents under the age of 16, y
 You'll be asked to create a pin for each credit freeze, and it's *very* important that you keep track of each of them for when you need to remove the freeze.
 
 It's also a good idea to request a free copy of your credit report each year so that you can check to see if there's any funny business on it. You can do so [here](https://krebsonsecurity.com/2018/09/credit-freezes-are-free-let-the-ice-age-begin/).
-
-You really should just read the article carefully, but 
