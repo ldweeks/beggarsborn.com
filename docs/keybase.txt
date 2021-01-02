@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ldweeks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://beggarsborn.com
+  * I am ldweeks (https://keybase.io/ldweeks) on keybase.
+  * I have a public key ASB8BQ-TXKjtD3VUKXYshKcFbd5hiXgzbsOjB4tmMbhJQAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207c050f935ca8ed0f755429762c84a7056dde618978336ec3a3078b6631b849400a",
+      "host": "keybase.io",
+      "kid": "01207c050f935ca8ed0f755429762c84a7056dde618978336ec3a3078b6631b849400a",
+      "uid": "3e06695e5f6cd7d5b881be55023e0819",
+      "username": "ldweeks"
+    },
+    "merkle_root": {
+      "ctime": 1505399092,
+      "hash": "cf6d7343f42be0bccd4c201e232ab4ffe5203d90fd454fe65f30200b0b5660fad64c74e3b85ab7e8f3a3d23f938da616dd098b4a6e99ca841a7d09b962790807",
+      "hash_meta": "c1a900f2dfe4cd2a2fa781dd9629e071f5b8d95427817f45c8df44f0cbe6a4bf",
+      "seqno": 1387182
+    },
+    "service": {
+      "hostname": "beggarsborn.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.29"
+  },
+  "ctime": 1505399132,
+  "expire_in": 504576000,
+  "prev": "665c1f4214a130050182ac5671d481c4bfe1581c51f08dac3ca464eaec14cc46",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfAUPk1yo7Q91VCl2LISnBW3eYYl4M27DoweLZjG4SUAKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2MwNTBmOTM1Y2E4ZWQwZjc1NTQyOTc2MmM4NGE3MDU2ZGRlNjE4OTc4MzM2ZWMzYTMwNzhiNjYzMWI4NDk0MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2MwNTBmOTM1Y2E4ZWQwZjc1NTQyOTc2MmM4NGE3MDU2ZGRlNjE4OTc4MzM2ZWMzYTMwNzhiNjYzMWI4NDk0MDBhIiwidWlkIjoiM2UwNjY5NWU1ZjZjZDdkNWI4ODFiZTU1MDIzZTA4MTkiLCJ1c2VybmFtZSI6Imxkd2Vla3MifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDUzOTkwOTIsImhhc2giOiJjZjZkNzM0M2Y0MmJlMGJjY2Q0YzIwMWUyMzJhYjRmZmU1MjAzZDkwZmQ0NTRmZTY1ZjMwMjAwYjBiNTY2MGZhZDY0Yzc0ZTNiODVhYjdlOGYzYTNkMjNmOTM4ZGE2MTZkZDA5OGI0YTZlOTljYTg0MWE3ZDA5Yjk2Mjc5MDgwNyIsImhhc2hfbWV0YSI6ImMxYTkwMGYyZGZlNGNkMmEyZmE3ODFkZDk2MjllMDcxZjViOGQ5NTQyNzgxN2Y0NWM4ZGY0NGYwY2JlNmE0YmYiLCJzZXFubyI6MTM4NzE4Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiZWdnYXJzYm9ybi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI5In0sImN0aW1lIjoxNTA1Mzk5MTMyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjY2NWMxZjQyMTRhMTMwMDUwMTgyYWM1NjcxZDQ4MWM0YmZlMTU4MWM1MWYwOGRhYzNjYTQ2NGVhZWMxNGNjNDYiLCJzZXFubyI6MTQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAc8yoK0dweIXve0kcvx8HOPDQpmTwlrzeIR+yA1x0PkHsIi3p7jhbqzphB5J+lusVGY0U9u4cdXpVeCF4OozgD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFmb8m+M+Wa6llkADNjDaYdFGG2lLZffhGH+fafwPmR4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ldweeks
+
+==================================================================
