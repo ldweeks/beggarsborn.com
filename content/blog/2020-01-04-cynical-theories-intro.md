@@ -1,5 +1,5 @@
 ---
-title: "Cynical Theories Intro"
+title: "An Introduction to Cynical Theories"
 date: 2021-01-04T22:41:02-05:00
 draft: false
 ---
