@@ -26,4 +26,4 @@ It’s a phrase from The Pilgrim’s Progress:
 > Thus to provide that I should be forgiven,  
 > And dwell already the next door to heaven?”  
 
-*To read the entire work, [download](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F39452&t=MmM3ZmFlM2Y0YjA4ZTZjMDRhMDQ3Zjk0MzBhM2MzZjY3MjA3MmZmOCxUbU4zdWpESg%3D%3D&m=0) it from [Project Gutenberg](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.gutenberg.org&t=YzZmZDMwYzgwOWVhNWVjMzE4YWI3OTIzMWY1NWI1YzMyOGUwMjI5ZCxUbU4zdWpESg%3D%3D&m=0).*
+*To read the entire work, [get it](https://www.gutenberg.org/ebooks/131) from Project Gutenberg.*
