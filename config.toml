@@ -31,10 +31,6 @@ summarylength = 100
 [[menu.navbar]]
   name = "About"
   url = "/about"
-  
-[[menu.navbar]]
-  name = "Books"
-  url = "/books"
 
 # Theme variables
 #
