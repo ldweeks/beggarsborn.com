@@ -3,7 +3,19 @@ title: Books
 permalink: /books/
 ---
 
-*These are books I've read.*
+### Currently Reading
+
+#### Audio
+
+* **Cynical Theories**, by Helen Pluckrose and James Lindsey
+* **Rules for Radicals**, by Saul Alinsky
+
+#### Print
+
+* **Heaven Taken By Storm**, by Thomas Watson
+* **Visible Saints**, by Edmund Morgan
+* **The Rule for Pastors**, by Gregory the Great
+* **Elders Reformed**, by Tim Bayly
 
 ## 2021
 
@@ -12,9 +24,11 @@ permalink: /books/
 * **Little Britches**, by Ralph Moody
 * **Barmy in Wonderland**, by P.G. Wodehouse
 * **The Inimitable Jeeves**, by P.G. Wodehouse
+* **Church Reformed**, by Tim Bayly
 
 #### Audio
 
+* **The Maker Versus the Takers**, by Jerry Bowyer
 * **A Tale of Two Cities**, by Charles Dickens
 
 ## 2020
