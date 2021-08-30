@@ -10,3 +10,7 @@ permalink: /free-books/
 * https://www.epubbooks.com
 * https://standardebooks.org
 * http://www.gutenberg.org
+* https://www.puritanlibrary.com
+* https://www.apuritansmind.com/free-ebooks-from-a-puritans-mind-and-puritan-publications/
+* https://gracegems.org (these works are edited to update language, though)
+
