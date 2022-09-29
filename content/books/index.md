@@ -3,19 +3,24 @@ title: Books
 permalink: /books/
 ---
 
-### Currently Reading
+## 2022
+
+### Print
+
+* **Cynical Theories**, by Helen Pluckrose and James Lindsey
+
 
 #### Audio
 
-* **Cynical Theories**, by Helen Pluckrose and James Lindsey
+* **Moby Dick**, by Herman Melville
+* **Ender's Game**, by Orson Scott Card
+* **True Grit**, by Charles Portis
+* **Your Brain's Not Broken**, by Tamara Rosier
+* **Disunited Nations: The Scramble for Power in an Ungoverned World**, by Peter Zeihan
+* **No Country for Old Men**, by Cormac McCarthy
 * **Rules for Radicals**, by Saul Alinsky
+* **Crucial Conversations**, by Joseph Grenny, etc.
 
-#### Print
-
-* **Heaven Taken By Storm**, by Thomas Watson
-* **Visible Saints**, by Edmund Morgan
-* **The Rule for Pastors**, by Gregory the Great
-* **Elders Reformed**, by Tim Bayly
 
 ## 2021
 
